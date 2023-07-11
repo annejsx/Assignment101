@@ -26,11 +26,23 @@ h3{
   
 }
 sec-img{
-  display: flex;
+  justify-content: space-around;
  margin-left: 50px;
  
 }
 .sec-text{
   align-items: center;
   margin-left: 600px;
+}
+.sec-container{
+  margin-top: 200px;
+}
+.trd-container{
+  display: flex;
+  justify-content: space-around;
+margin-top: 200px;
+  
+}
+.trd-text{
+margin-left: 50px;
 }
