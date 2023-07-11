@@ -21,3 +21,16 @@
   font-weight: 700;
   padding: 15px 35px;
 }
+h3{
+  font-size: 30px;
+  
+}
+sec-img{
+  display: flex;
+ margin-left: 50px;
+ 
+}
+.sec-text{
+  align-items: center;
+  margin-left: 600px;
+}
