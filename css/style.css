@@ -54,3 +54,15 @@ margin-left: 50px;
   margin-left: 100px;
   margin-top: 200px;
 }
+.fif-text{
+  margin-left: 700px;
+}
+.fif-container{
+  background-color: aqua;
+  margin-top: 200px;
+}
+footer{
+  text-align: center;
+  color: aliceblue;
+  background-color: black;
+}
