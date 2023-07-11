@@ -1,0 +1,23 @@
+.frist-text{
+  font-size: 45px;
+  font-weight: 700;
+}
+.frist-img{
+  width: 400;
+}
+.frist-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(228, 209, 228);
+  padding: 30px 100px 0px 100px;
+}
+.pri-btn{
+  border-radius: 5px;
+  background: rgb(225, 132, 222);
+  border: 0;
+  color: azure;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 15px 35px;
+}
