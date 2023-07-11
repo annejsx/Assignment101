@@ -66,3 +66,14 @@ footer{
   color: aliceblue;
   background-color: black;
 }
+table{
+  border-collapse: collapse;
+}
+td,th {
+  border: 5px solid orchid;
+  padding: 10px 40px;
+}
+.tbl-sec{
+  margin-top: 200px;
+  margin-left: 500px;
+}
